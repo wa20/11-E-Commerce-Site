@@ -23,7 +23,7 @@ try {
     include: [{ model: Product }],
   });
   if (!categoryData) {
-    res.status(404), json({ message: 'No Category Found!' });
+    res.status(404), json({ message: 'Category not found' });
     return;
   }
   res.status(200).json(categoryData);
@@ -35,7 +35,7 @@ try {
 
 router.post('/', (req, res) => {
   // create a new category
-  
+
 });
 
 router.put('/:id', (req, res) => {
