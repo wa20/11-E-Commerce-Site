@@ -13,6 +13,7 @@ ProductTag.init(
       primaryKey: true,
       autoIncrement: true
     },
+
     product_id: {
       type: DataTypes.INTEGER,
       references: {
@@ -20,6 +21,7 @@ ProductTag.init(
         key: 'id'
       }
     },
+
     tag_id: {
       type: DataTypes.INTEGER,
       references: {
@@ -28,6 +30,7 @@ ProductTag.init(
       }
     }
   },
+
   {
     sequelize,
     timestamps: false,
@@ -35,6 +38,7 @@ ProductTag.init(
     underscored: true,
     modelName: 'product_tag',
   }
+  
 );
 
 module.exports = ProductTag;
