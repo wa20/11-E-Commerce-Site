@@ -16,7 +16,7 @@ Using node JS, express, sequalize and MySql to refactor and build the backend of
 
 
 ## Installation
-first insiitalise the file by running 'npm init' then install relevent modules by running 'npm install {module}' in the console terminal. Once all relevent modules are installed you can then run 'npm run seed' to seed the database with data and then run 'npm run start' to start the application.
+first initialise the file by running 'npm init' then install relevent modules by running 'npm install {module}' in the console terminal. Once all relevent modules are installed you can then run 'npm run seed' to seed the database with data and then run 'npm run start' to start the application.
 
 ## Usage
 Please view video below:
