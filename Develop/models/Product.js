@@ -32,7 +32,7 @@ Product.init(
     stock: {
       type: DataTypes.INTEGER,
       allowNull: false,
-      defaultValue: 5,
+      defaultValue: 10,
       validate: {
         isNumeric: true,
       },
@@ -46,7 +46,7 @@ Product.init(
         key: "id",
       },
     },
-    
+
   },
   {
     sequelize,
