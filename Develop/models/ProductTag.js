@@ -38,7 +38,6 @@ ProductTag.init(
     underscored: true,
     modelName: 'product_tag',
   }
-  
 );
 
 module.exports = ProductTag;
