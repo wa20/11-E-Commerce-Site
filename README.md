@@ -20,7 +20,10 @@ First initialise the file by running 'npm init' then install relevent modules by
 
 ## Usage
 Please view video below:
--link in assets file
+- [NPM-Start](https://drive.google.com/file/d/1I_dfU4wXbrb76zmyrdVL3-wLlQ75BoB9/view?usp=sharing)
+- [Category-Walkthrough](https://drive.google.com/file/d/1GoP21JWrajsFGMPBtn3aJn26JiEAM9-D/view?usp=sharing)
+- [Product-Walkthrough](https://drive.google.com/file/d/1mmqc1ufLEFWF5LYO-kQTjWld9mCEbRS4/view?usp=sharing)
+- [Tag-Walkthrough](https://drive.google.com/file/d/1egQVbt41aMNIz_M20R9ebjuZk3NyQPQG/view?usp=sharing)
 
 ## Collaborators
 none
